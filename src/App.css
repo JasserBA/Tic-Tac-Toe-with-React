@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../public/backg.jpg');
+    background-size: cover ;
+    font-family: 'Exo 2', sans-serif;
+    /*  font-family: 'Fredoka', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    */
+}
