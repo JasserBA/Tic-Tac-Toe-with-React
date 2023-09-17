@@ -22,9 +22,6 @@ This repository contains a simple yet interactive Tic-Tac-Toe game built using R
 **Getting Started:**
 To play the game locally, clone this repository, install dependencies with `npm install`, and run `npm start`.
 
-**Demo:**
-Try the game online at [Demo Link](https://jasserba.github.io/Tic-Tac-Toe-with-React).
-
 **Contributing:**
 We welcome contributions! Please see our [Contribution Guidelines](CONTRIBUTING.md) for details.
 
